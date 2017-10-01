@@ -50,10 +50,6 @@ Run gnuplot (sample file included)::
 
     gnuplot process.plt
 
-Example:
-
-.. image:: cellplot.svg
-
 License
 =======
 
